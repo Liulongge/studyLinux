@@ -15,3 +15,9 @@
 “/message”：要接收消息的名字
 
 ./mq_receive /message
+
+
+4、删除队列
+“/message”：要删除队列名
+
+./mq_remove /message
